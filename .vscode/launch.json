@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Python: Flask",
+      "type": "python",
+      "request": "launch",
+      "module": "flask",
+      "env": {
+        "FLASK_APP": "flaskr",
+        "FLASK_DEBUG": "true"
+      },
+      "args": [
+        "run",
+        "--host=0.0.0.0",
+        "--port=5000",
+        "--no-debugger"
+      ],
+      "jinja": true,
+      "justMyCode": true
+    }
+  ]
+}

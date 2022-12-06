@@ -1,0 +1,8 @@
+{
+  "python.analysis.extraPaths": [
+    "E:/Anaconda/envs/flask/Lib/site-packages"
+  ],
+  "code-runner.executorMap": {
+    "python": "E:/Anaconda/envs/flask/python.exe -u",
+  },
+}
